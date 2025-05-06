@@ -1,2 +1,23 @@
-# Job-Portal
-A full-stack web application where users can:  Register/Login as job seekers or recruiters  Post and view job listings  Apply for jobs  Search and filter jobs by category, location, or keyword
+# 🧑‍💼 Job Portal Web Application
+
+A simple full-stack job portal where recruiters can post jobs and job seekers can apply.
+
+## 🔧 Technologies
+- Node.js, Express.js, MongoDB
+- HTML, CSS, JavaScript, Bootstrap
+- JWT for authentication
+
+## 🚀 Features
+- User Authentication (Job Seeker & Recruiter)
+- Post, Browse, and Apply for Jobs
+- View applied jobs / applicants
+- Search and filter job listings
+
+## 📦 Installation
+git clone https://github.com/shivamrshi/job-portal.git
+cd job-portal
+npm install
+npm start
+
+## 🙌 Contribute
+Feel free to fork and contribute!
